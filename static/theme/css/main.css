@@ -1,0 +1,19 @@
+#main {
+    padding-top: 74px;
+
+}
+
+@media (min-width: 992px) {
+    #main {
+
+        padding-top: 104px;
+
+    }
+}
+
+.hs-bg-info {
+    background-color: #3dd5f3;
+    transition: border-bottom .2s, color .2s;
+    font-palette: dark;
+
+}
