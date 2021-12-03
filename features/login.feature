@@ -23,6 +23,6 @@ Feature: Inicio de sesion
 
   Scenario: Inicio de sesion como usuario
     Given Ingreso a lindasonrisa y me dirigo al login
-    And mi usuario es yanezkarla y mi clave es adminminda
+    And mi usuario es yanezkarla y mi clave es iamaraccoon
     And ingreso mis crendiciales y presiono el boton ingresar
     Then inicio sesion en linda sonrisa, me llevan al home, e ingreso a mi perfil
